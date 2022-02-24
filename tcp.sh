@@ -336,10 +336,8 @@ Update_Shell(){
 #开始菜单
 start_menu(){
 clear
-echo && echo -e " TCP加速 一键安装管理脚本 ${Red_font_prefix}[v${sh_ver}]${Font_color_suffix}
-  -- 就是爱生活 | 94ish.me --
-  
- ${Green_font_prefix}0.${Font_color_suffix} 升级脚本
+echo && echo -e " BBR加速 一键安装管理脚本 ${Red_font_prefix}[v${sh_ver}]${Font_color_suffix}
+  -- BBR For Oracle Cloud | tiandynasty.cn --
 ————————————内核管理————————————
  ${Green_font_prefix}1.${Font_color_suffix} 安装 BBR/BBR魔改版内核
  ${Green_font_prefix}2.${Font_color_suffix} 安装 BBRplus版内核 
